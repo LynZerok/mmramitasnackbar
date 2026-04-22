@@ -132,7 +132,7 @@ nav{
 /* -------call to action--------- */
 .cta{
     margin: 80px 0;
-    background-image: linear-gradient(to right, black, transparent),url(trustus.jpg);
+    background-image: linear-gradient(to right, black, transparent),url(trustus.JPG);
     background-size: cover;
     background-position: center;
     border-radius: 10px;
